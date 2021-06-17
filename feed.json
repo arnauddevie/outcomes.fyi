@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "outcomes.fyi",
+    "description": "",
+    "home_page_url": "http://outcomes.fyi",
+    "feed_url": "http://outcomes.fyi/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Arnaud"
+    },
+    "items": [
+        {
+            "id": "http://outcomes.fyi/come-back-soon.html",
+            "url": "http://outcomes.fyi/come-back-soon.html",
+            "title": "Learn more",
+            "content_html": "<p class=\"align-center\"><a href=\"mailto:info@outcomes.fyi\">info@outcomes.fyi</a></p>",
+            "author": {
+                "name": "Arnaud"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-16T20:48:18-07:00",
+            "date_modified": "2021-06-16T20:53:51-07:00"
+        }
+    ]
+}
