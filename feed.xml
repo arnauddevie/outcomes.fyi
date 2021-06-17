@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>outcomes.fyi</title>
-    <link href="http://outcomes.fyi/feed.xml" rel="self" />
-    <link href="http://outcomes.fyi" />
+    <link href="http://www.outcomes.fyi/feed.xml" rel="self" />
+    <link href="http://www.outcomes.fyi" />
     <updated>2021-06-16T20:53:51-07:00</updated>
     <author>
         <name>Arnaud</name>
     </author>
-    <id>http://outcomes.fyi</id>
+    <id>http://www.outcomes.fyi</id>
 
     <entry>
         <title>Learn more</title>
         <author>
             <name>Arnaud</name>
         </author>
-        <link href="http://outcomes.fyi/come-back-soon.html"/>
-        <id>http://outcomes.fyi/come-back-soon.html</id>
+        <link href="http://www.outcomes.fyi/come-back-soon.html"/>
+        <id>http://www.outcomes.fyi/come-back-soon.html</id>
 
         <updated>2021-06-16T20:53:51-07:00</updated>
             <summary></summary>
